@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Leon Kovalski</h1>
-<h3 align="center">A passionate backend/frontend developer from Germany</h3>
+<h1 align="center">Hi 👋, I'm Pierre Rollet</h1>
+<h3 align="center">A passionate backend/frontend developer from France</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nxtcloud999&label=Profile%20views&color=0e75b6&style=flat" alt="nxtcloud999" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nxtcloud999&label=Profile%20views&color=0e75b6&style=flat" alt="pierre" /> </p>
 
 <div align="center">
-🔭 I’m currently working on https://discord.gg/wavecl
+🔭 I’m currently working on https://discord.gg/finalcityrp
 
 🌱 I’m currently learning **Swift, Node.js, tailwind**
 
 💬 Ask me about **html, css, lua, MySQL**
 
-📫 How to reach me: **<a href="https://discord.com/users/648486859592433667/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@lucag" height="30" width="40" /></a>**
+📫 How to reach me: **<a href="https://discord.com/users/403985631522586625/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pierre" height="30" width="40" /></a>**
 
 <p align="center">
 </p>
