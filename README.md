@@ -1,20 +1,120 @@
-<h1 align="center">Hi 👋, I'm Pierre Rollet</h1>
-<h3 align="center">A passionate backend/frontend developer from France</h3>
+# FileHoster - Professional File Hosting Application
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nxtcloud999&label=Profile%20views&color=0e75b6&style=flat" alt="pierre" /> </p>
+A modern file hosting application with Discord integration, built with Next.js, React, and TypeScript.
 
-<div align="center">
-🔭 I’m currently working on https://discord.gg/finalcityrp
+## Features
 
-🌱 I’m currently learning **Swift, Node.js, tailwind**
+- 🔐 **Secure File Hosting**: End-to-end encryption for all files
+- ⚡ **Fast Performance**: Lightning-fast uploads and downloads
+- 🎮 **Discord Integration**: Seamless login with Discord OAuth
+- 🌍 **Multi-language Support**: German and English translations
+- 🎨 **Dark/Light Theme**: Modern UI with theme switching
+- 📊 **Real-time Statistics**: Animated counters for file stats
+- 🛡️ **DevTools Protection**: Security measures against inspection
 
-💬 Ask me about **html, css, lua, MySQL**
+## Components Overview
 
-📫 How to reach me: **<a href="https://discord.com/users/403985631522586625/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pierre" height="30" width="40" /></a>**
+### Main Components
+- **MainPage**: Landing page with hero section, features, and statistics
+- **AuthProvider**: Authentication context with Discord OAuth integration
+- **LanguageProvider**: Internationalization with German/English support
+- **DevToolsProtection**: Security component to prevent dev tools access
 
-<p align="center">
-</p>
-</div>
+### UI Components
+- **Button**: Customizable button component with variants
+- **Badge**: Status badges with different styles
+- **Card**: Container components for content sections
+- **LanguageToggle**: Switch between German and English
+- **ThemeToggle**: Toggle between light and dark themes
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## File Structure
+
+```
+src/
+├── components/
+│   ├── ui/
+│   │   ├── button.tsx
+│   │   ├── badge.tsx
+│   │   └── card.tsx
+│   ├── MainPage.tsx
+│   ├── LanguageToggle.tsx
+│   ├── ThemeToggle.tsx
+│   └── DevToolsProtection.tsx
+├── contexts/
+│   ├── AuthContext.tsx
+│   └── LanguageContext.tsx
+└── lib/
+    └── utils.ts
+```
+
+## Key Features Explained
+
+### Authentication System
+- Discord OAuth integration
+- Session management
+- User approval workflow
+- Automatic session updates for approved users
+
+### Internationalization
+- Complete German and English translations
+- Browser language detection
+- Persistent language preference
+- Easy translation key system
+
+### Security Features
+- DevTools detection and blocking
+- Function constructor override to prevent debugging
+- Keyboard shortcut prevention
+- Access denial screen with dramatic styling
+
+### Statistics Animation
+- Smooth counter animations using requestAnimationFrame
+- Storage size formatting (B, KB, MB, GB)
+- Real-time data fetching from API
+- Performance-optimized animations
+
+### Modern UI/UX
+- Gradient backgrounds and modern styling
+- Responsive grid layouts
+- Hover effects and transitions
+- Icon integration with Lucide React
+- Card-based feature presentation
+
+## Installation
+
+```bash
+npm install
+```
+
+## Development
+
+```bash
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+npm start
+```
+
+## Technologies Used
+
+- **Next.js 14**: React framework with App Router
+- **React 18**: Modern React with hooks and context
+- **TypeScript**: Type-safe development
+- **Tailwind CSS**: Utility-first CSS framework
+- **Lucide React**: Beautiful icon library
+- **Radix UI**: Accessible UI primitives
+- **Class Variance Authority**: Type-safe styling variants
+
+## API Endpoints
+
+- `GET /api/global` - Fetch global statistics
+- `GET /api/auth/me` - Get current user info
+- `POST /api/auth/logout` - Logout user
+- `PUT /api/auth/session` - Update user session
+- `/api/auth/discord` - Discord OAuth login
+
+This application represents a modern, secure file hosting solution with professional-grade features and a polished user experience.
