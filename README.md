@@ -1,5 +1,3 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=pierrerlt">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Pierre+Rollet;&center=true&font=Righteous&size=35">
@@ -119,3 +117,4 @@
 <h4 align="center">
   <a href="https://github.com/pierrerlt?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+<img align="right" src="https://komarev.com/ghpvc/?username=pierrerlt">
