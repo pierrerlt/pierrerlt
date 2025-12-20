@@ -7,11 +7,14 @@
 <br />
 
 <p align="center">
-  Hi, I'm Pierre Rollet, Backend, Frontend Developer from France 🇫🇷.
-  <br />
-  <br />
-  🧑‍💼 I’m currently working on https://discord.gg/velenacity and https://discord.gg/spstudios.
-  <br />
+  Hi, I'm Pierre Rollet 👋<br>
+  I'm a Backend & Frontend Developer from France 🇫🇷.
+</p>
+
+<p align="center">
+  🧑‍💼 Currently working on: 
+  <a href="https://discord.gg/velenacity">Velenacity</a> & 
+  <a href="https://discord.gg/spstudios">SP Studios</a>
 </p>
 
 <div align="center"> 
