@@ -44,39 +44,6 @@
 </p>
 <hr />
 
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br />
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=pierrerlt&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=pierrerlt&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=pierrerlt&theme=default&border=61dafb" alt="pierrerlt's streak stats" />
-      </picture>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pierrerlt&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=pierrerlt&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=pierrerlt&show_icons=true&theme=default&border_color=61dafb" alt="pierrerlt's github stats" />
-      </picture>
-    </a>
-  </div>
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pierrerlt&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pierrerlt&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pierrerlt&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="pierrerlt's contribution graph" />
-    </picture>
-  </a>
-</p>
-
-<hr />
-
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br />
 <div width="100%" align="center">
