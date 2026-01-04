@@ -49,21 +49,21 @@
 
 <p align="center">
   <a href="https://github.com/pierrerlt/bio-portfolio">
-    <img src="https://i.ibb.co/m58mF1V6/bio-portfolio.png"  />
+    <img src="https://i.ibb.co/4BCC7SP/portfolio.png"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pierrerlt/busjob">
-    <img src="https://i.ibb.co/pvD8K8NK/busjob.png"  />
+    <img src="https://i.ibb.co/4Zkc2Rgb/busjob.png" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/pierrerlt/animalmenu">
-    <img src="https://i.ibb.co/s9TLHLXP/animalmenu.png"  />
+    <img src="https://i.ibb.co/6JYcdCkB/animalmenu.png" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pierrerlt/dailyrewards">
-    <img src="https://i.ibb.co/TBPsxJBc/dailyrewards.png"  />
+    <img src="https://i.ibb.co/rRSnHhNL/dailyrewards.png" />
   </a>
 </p>
 
