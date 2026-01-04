@@ -55,7 +55,7 @@
     <img src="https://i.ibb.co/4Zkc2Rgb/busjob.png" alt="busjob" border="0">
   </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/pierrerlt/animalmenu" title="FiveM AnimalMenu">
     <img src="https://i.ibb.co/6JYcdCkB/animalmenu.png" alt="animalmenu" border="0">
@@ -66,7 +66,7 @@
   </a>
 </div>
 
-<br /><br /><br /><br /><br /><br />
+<br /><br />
 
 <h4 align="center">
   <a href="https://github.com/pierrerlt?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
