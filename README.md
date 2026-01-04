@@ -48,37 +48,21 @@
 <br />
 <div width="100%" align="center">
   <a align="right" href="https://github.com/pierrerlt/bio-portfolio" title="Portfolio Website">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=pierrerlt&repo=bio-portfolio&theme=react&border_color=61dafb&border_radius=10.0" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=pierrerlt&repo=bio-portfolio&theme=graywhite&border_radius=10.0" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pierrerlt&repo=bio-portfolio&theme=graywhite&border_radius=10.0" alt="Portfolio" />
-    </picture>
+    <img src="https://i.ibb.co/4BCC7SP/portfolio.png" alt="portfolio" border="0">
   </a>
 
   <a align="left" href="https://github.com/pierrerlt/busjob" title="FiveM BusJob">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=pierrerlt&repo=busjob&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=pierrerlt&repo=busjob&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pierrerlt&repo=busjob&theme=graywhite&border_radius=10" alt="BusJob" />
-    </picture>
+    <img src="https://i.ibb.co/4Zkc2Rgb/busjob.png" alt="busjob" border="0">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/pierrerlt/animalmenu" title="FiveM AnimalMenu">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=pierrerlt&repo=animalmenu&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=pierrerlt&repo=animalmenu&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pierrerlt&repo=animalmenu&theme=graywhite&border_radius=10" alt="AnimalMenu" />
-    </picture>
+    <img src="https://i.ibb.co/6JYcdCkB/animalmenu.png" alt="animalmenu" border="0">
   </a>
 
   <a align="right" href="https://github.com/pierrerlt/dailyrewards" title="FiveM DailyRewards">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=pierrerlt&repo=dailyrewards&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=pierrerlt&repo=dailyrewards&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pierrerlt&repo=dailyrewards&theme=graywhite&border_radius=10" alt="DailyRewards" />
-    </picture>
+    <img src="https://i.ibb.co/rRSnHhNL/dailyrewards.png" alt="dailyrewards" border="0">
   </a>
 </div>
 
