@@ -46,7 +46,7 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br />
-<div width="100%" align="center">
+<div width="100%" align="center" style="display: flex; gap: 200px; justify-content: center;">
   <a align="right" href="https://github.com/pierrerlt/bio-portfolio" title="Portfolio Website">
     <img src="https://i.ibb.co/m58mF1V6/bio-portfolio.png" alt="portfolio" >
   </a>
@@ -55,7 +55,7 @@
     <img src="https://i.ibb.co/pvD8K8NK/busjob.png" alt="busjob" >
   </a>
 </div>
-<div width="100%" align="center">
+<div width="100%" align="center" style="display: flex; gap: 200px; justify-content: center;">
   <a align="left" href="https://github.com/pierrerlt/animalmenu" title="FiveM AnimalMenu">
     <img src="https://i.ibb.co/s9TLHLXP/animalmenu.png" alt="animalmenu" >
   </a>
