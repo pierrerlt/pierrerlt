@@ -46,39 +46,27 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<table width="100%">
-  <tr>
-    <td align="left" width="45%">
-      <a href="https://github.com/pierrerlt/bio-portfolio" title="Portfolio Website">
-        <img src="https://i.ibb.co/m58mF1V6/bio-portfolio.png" width="100%" />
-      </a>
-    </td>
 
-    <td width="10%"></td>
+<p align="center">
+  <a href="https://github.com/pierrerlt/bio-portfolio">
+    <img src="https://i.ibb.co/m58mF1V6/bio-portfolio.png" width="420" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/pierrerlt/busjob">
+    <img src="https://i.ibb.co/pvD8K8NK/busjob.png" width="420" />
+  </a>
+</p>
 
-    <td align="right" width="45%">
-      <a href="https://github.com/pierrerlt/busjob" title="FiveM BusJob">
-        <img src="https://i.ibb.co/pvD8K8NK/busjob.png" width="100%" />
-      </a>
-    </td>
-  </tr>
+<p align="center">
+  <a href="https://github.com/pierrerlt/animalmenu">
+    <img src="https://i.ibb.co/s9TLHLXP/animalmenu.png" width="420" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/pierrerlt/dailyrewards">
+    <img src="https://i.ibb.co/TBPsxJBc/dailyrewards.png" width="420" />
+  </a>
+</p>
 
-  <tr>
-    <td align="left">
-      <a href="https://github.com/pierrerlt/animalmenu" title="FiveM AnimalMenu">
-        <img src="https://i.ibb.co/s9TLHLXP/animalmenu.png" width="100%" />
-      </a>
-    </td>
-
-    <td></td>
-
-    <td align="right">
-      <a href="https://github.com/pierrerlt/dailyrewards" title="FiveM DailyRewards">
-        <img src="https://i.ibb.co/TBPsxJBc/dailyrewards.png" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 <br /><br />
