@@ -51,7 +51,7 @@
   <a href="https://github.com/pierrerlt/bio-portfolio">
     <img src="https://i.ibb.co/4BCC7SP/portfolio.png"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pierrerlt/busjob">
     <img src="https://i.ibb.co/4Zkc2Rgb/busjob.png" />
   </a>
@@ -61,7 +61,7 @@
   <a href="https://github.com/pierrerlt/animalmenu">
     <img src="https://i.ibb.co/6JYcdCkB/animalmenu.png" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pierrerlt/dailyrewards">
     <img src="https://i.ibb.co/rRSnHhNL/dailyrewards.png" />
   </a>
