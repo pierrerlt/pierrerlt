@@ -45,25 +45,41 @@
 <hr />
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br />
-<div width="100%" align="center" style="display: flex; gap: 200px; justify-content: center;">
-  <a align="right" href="https://github.com/pierrerlt/bio-portfolio" title="Portfolio Website">
-    <img src="https://i.ibb.co/m58mF1V6/bio-portfolio.png" alt="portfolio" >
-  </a>
+<br>
+<table width="100%">
+  <tr>
+    <td align="left" width="45%">
+      <a href="https://github.com/pierrerlt/bio-portfolio" title="Portfolio Website">
+        <img src="https://i.ibb.co/m58mF1V6/bio-portfolio.png" width="100%" />
+      </a>
+    </td>
 
-  <a align="left" href="https://github.com/pierrerlt/busjob" title="FiveM BusJob">
-    <img src="https://i.ibb.co/pvD8K8NK/busjob.png" alt="busjob" >
-  </a>
-</div>
-<div width="100%" align="center" style="display: flex; gap: 200px; justify-content: center;">
-  <a align="left" href="https://github.com/pierrerlt/animalmenu" title="FiveM AnimalMenu">
-    <img src="https://i.ibb.co/s9TLHLXP/animalmenu.png" alt="animalmenu" >
-  </a>
+    <td width="10%"></td>
 
-  <a align="right" href="https://github.com/pierrerlt/dailyrewards" title="FiveM DailyRewards">
-    <img src="https://i.ibb.co/TBPsxJBc/dailyrewards.png" alt="dailyrewards" >
-  </a>
-</div>
+    <td align="right" width="45%">
+      <a href="https://github.com/pierrerlt/busjob" title="FiveM BusJob">
+        <img src="https://i.ibb.co/pvD8K8NK/busjob.png" width="100%" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left">
+      <a href="https://github.com/pierrerlt/animalmenu" title="FiveM AnimalMenu">
+        <img src="https://i.ibb.co/s9TLHLXP/animalmenu.png" width="100%" />
+      </a>
+    </td>
+
+    <td></td>
+
+    <td align="right">
+      <a href="https://github.com/pierrerlt/dailyrewards" title="FiveM DailyRewards">
+        <img src="https://i.ibb.co/TBPsxJBc/dailyrewards.png" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <br /><br />
 
