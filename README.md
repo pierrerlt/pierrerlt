@@ -48,21 +48,20 @@
 <br />
 <div width="100%" align="center">
   <a align="right" href="https://github.com/pierrerlt/bio-portfolio" title="Portfolio Website">
-    <img src="https://i.ibb.co/4BCC7SP/portfolio.png" alt="portfolio" border="0">
+    <img src="https://i.ibb.co/4BCC7SP/portfolio.png" alt="portfolio" >
   </a>
 
   <a align="left" href="https://github.com/pierrerlt/busjob" title="FiveM BusJob">
-    <img src="https://i.ibb.co/4Zkc2Rgb/busjob.png" alt="busjob" border="0">
+    <img src="https://i.ibb.co/4Zkc2Rgb/busjob.png" alt="busjob" >
   </a>
 </div>
-<br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/pierrerlt/animalmenu" title="FiveM AnimalMenu">
-    <img src="https://i.ibb.co/6JYcdCkB/animalmenu.png" alt="animalmenu" border="0">
+    <img src="https://i.ibb.co/6JYcdCkB/animalmenu.png" alt="animalmenu" >
   </a>
 
   <a align="right" href="https://github.com/pierrerlt/dailyrewards" title="FiveM DailyRewards">
-    <img src="https://i.ibb.co/rRSnHhNL/dailyrewards.png" alt="dailyrewards" border="0">
+    <img src="https://i.ibb.co/rRSnHhNL/dailyrewards.png" alt="dailyrewards" >
   </a>
 </div>
 
