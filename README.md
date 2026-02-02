@@ -13,7 +13,7 @@
 
 <p align="center">
   🧑‍💼 Currently working on: 
-  <a href="https://discord.gg/velenacity">Velena City</a> & 
+  <a href="https://discord.gg/teamstadt">Team Stadt</a> & 
   <a href="https://discord.gg/spstudios">SP Studios</a>
 </p>
 
