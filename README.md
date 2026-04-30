@@ -14,7 +14,7 @@
 <p align="center">
   🧑‍💼 Currently working on: 
   <a href="https://discord.gg/teamstadt">Team Stadt</a> & 
-  <a href="https://discord.gg/spstudios">SP Studios</a>
+  <a href="https://discord.gg/highlife-rp">HighLife</a>
 </p>
 
 <div align="center"> 
